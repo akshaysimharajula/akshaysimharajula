@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysimharajula&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysimharajula" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **GEN AI**
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **AWS Cloud & Data Analysis**
+- 💬 Ask me about **ML,AI & AWS Cloud**
 - 📫 How to reach me **akshaysimharajula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
