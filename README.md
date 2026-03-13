@@ -26,9 +26,9 @@
 <a href="https://github.com/akshaysimharajula" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30"/>
 </a>
-<h3 align="center">AI / GenAI Expertise</h3>
+<h3 align="left">AI / GenAI Expertise</h3>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge"/>
@@ -38,7 +38,6 @@
 
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 
