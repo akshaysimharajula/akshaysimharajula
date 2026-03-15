@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Advanced LLM Applications & Agentic AI**
 - 💬 Ask me about **Python, RAG, LangChain, AWS Cloud**
 - 📫 How to reach me **akshaysimharajula@gmail.com**
-- 📄 **Resume:** https://github.com/akshaysimharajula/resume/AKSHAY-AIML%20RESUME.pdf
+- 📄 **Resume:** https://github.com/akshaysimharajula
 
 <h3 align="left">Connect with me:</h3>
 
